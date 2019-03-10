@@ -85,6 +85,7 @@ int main() {
         examplefile.getline(buffer,100);
         cout<<buffer<< endl;
     }
+    cout<<"edit by wang";
     return 0;
 
 
