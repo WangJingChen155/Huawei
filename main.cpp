@@ -78,6 +78,7 @@ int main() {
     if (! examplefile.is_open())
     {
         cout << "Error opening file"; exit (1);
+        cout<<"edit by wang";
     }
     while (!examplefile.eof())
     {
